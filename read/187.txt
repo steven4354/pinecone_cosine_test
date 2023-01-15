@@ -1,0 +1,105 @@
+https://balancedview.substack.com/p/they-see-me-rollin
+A Balanced View 🧶They See me Rollin’🧶 A dissertation on the Amazon roll-up strategy Patrick A Current State of E-Commerce Affairs What a time to be alive in the e-commerce sector, with penetration in the US increasing more in the month of April than the combined increase over the prior 4-5 years.
+ While the impetus is fairly obvious, COVID has forced physical store closures, what’s more interesting is the long-term impact:   What a time to be alive in the e-commerce sector, with penetration in the US increasing more in the month of April than the combined increase over the  prior 4-5 years .
+ While the impetus is fairly obvious, COVID has forced physical store closures, what’s more interesting is the long-term impact:   E-commerce penetration is expected to be sustainable post-crisis, as growth has continued to accelerate post retail re-openings  E-commerce penetration is expected to be  sustainable post-crisis,  as growth has continued to accelerate post retail re-openings  Long-term penetration estimates have revised upwards, to 30% of $5.
+5T total retail sales by 2024 Long-term penetration estimates have revised upwards, to  30% of $5.
+5T total retail sales by 2024 The largest structural shift in future consumer behavior is purchasing consumer packaged goods & groceries online The largest structural shift in future consumer behavior is  purchasing consumer packaged goods & groceries online Amazon’s COVID-proof ecosystem has been the biggest beneficiary, and its current market capitalization ($1.
+6 trillion) & valuation (90x P/E) reflect high future expectations.
+ By extension, third-party sellers on Amazon’s platform have also generated incredible wealth, and will represent 60%, or $400B of Amazon’s total gross merchandise volume by 2022.
+  That’s a lot of inflatable pool hammocks for the summer.
+ Recently, platforms focusing on acquiring and aggregating top Amazon third-party sellers have raised large financing rounds, the most notable of which is Thras.
+io, from their Series C press release: Thras.
+io, Inc.
+ ("Thrasio"), the largest acquirer of Amazon businesses and one of the top 25 sellers on Amazon, today announced that it has raised $260 million in a Series C financing led by Advent International, one of the largest and most experienced global private equity investors (growth equity vehicle).
+ The latest round was raised at a $1 billion pre-money valuation, making Thrasio the fastest US company ever to reach profitable unicorn status.
+ Thras.
+io, Inc.
+ ("Thrasio"), the largest acquirer of Amazon businesses and one of the top 25 sellers on Amazon, today announced that it has raised $260 million in a Series C financing led by Advent International, one of the largest and most experienced global private equity investors  (growth equity vehicle) .
+ The latest round was raised at a $1 billion pre-money valuation,  making Thrasio the fastest US company ever to reach profitable unicorn status .
+ Thrasio’s pitch is Amazon & its third-party merchants are best positioned to monetize on continued e-commerce penetration.
+ The overall merchant supply is highly fragmented; specifically, Thrasio’s addressable targets are ~40K sellers each generating >$1M revenue per year.
+ If Thrasio can roll-up the best brands at low multiples and institutionalize the operations, the broader platform can exit at a higher multiple and collect cash flows along the way.
+ This strategy is essentially an offline-to-online transmutation of the classic private equity roll-up model.
+ The shared key levers and Thrasio’s corresponding strategies are: Harvesting Cash Flows – Average Fulfilled by Amazon (FBA) operating margins are ~20 – 25% Harvesting Cash Flows  – Average Fulfilled by Amazon (FBA) operating margins are ~20 – 25% Executing Operational Improvements – Efficient product management, including paid advertising, SEO, and supply chain improvements Executing Operational Improvements  – Efficient product management, including paid advertising, SEO, and supply chain improvements Increasing Exit Multiple – Purchasing FBA businesses at ~3x EBITDA and selling the combined platform at a ~15x multiple upon exit Increasing Exit Multiple  – Purchasing FBA businesses at ~3x EBITDA and selling the combined platform at a ~15x multiple upon exit As we dive deeper into each lever, the analogy begins to stretch.
+ Although small-medium business (SMB) can generate meaningful returns on their time & capital,  it is challenging to generate VC & growth equity-like returns (25 - 30% annually) rolling up FBA assets, especially post expensive debt service.
+  Harvesting Cash Flows 101 Harvesting Cash Flows 101 Thrasio’s key targets are FBA (Fulfilled by Amazon) businesses, where Amazon stores, packs, and ships products directly to customers.
+ They also acquire Amazon 1st party and non-Amazon (Shopify, Walmart, eBay) merchants, but those acquisitions represent a much smaller piece of the overall portfolio.
+  On average, FBA operating margins are ~20-25% across all Amazon product categories.
+ The overall financial profile appears attractive, especially for small-medium businesses.
+ However, the margins do not scale as most expenses are completely variable, below:   Thrasio’s average acquisition generates $5M of revenue, and Amazon’s take for a business that size is ~50% (long $AMZN).
+ FBA selling and inventory fees are 100% variable, while FBA transaction fees have a fixed component which only noticeably scales with large pricing increases.
+ The remaining margin expansion levers are also limited.
+ Product costs can be negotiated down a few bps, sea freight costs have recently increased past all-time highs, and most verticals were impacted by the 2019 US / China tariffs, adding an additional burden overnight with no repeal in sight.
+ The most volatile expense category is Amazon’s pay-per-click (PPC) program, which captures the cost of customer acquisition.
+  There is a slight law of large numbers effect occurring, ($4B ad spend vs $18B 3rd fees in Q2), but the message stands.
+ With 63% of purchase decisions beginning on Amazon, the cost per click has increased by nearly 50% and overall ad spend has doubled since 2018 as competition intensifies to win auctions for ad space.
+ Thrasio focuses on mature businesses and the ACOS (advertising cost as a percentage of sales) is thus lower versus newer merchants who still need to ascend rankings and aggregate 5-star reviews.
+ Nonetheless, customer acquisition costs generally trend higher as more buyers are attracted to the platform.
+  There is a slight law of large numbers effect occurring, ($4B ad spend vs $18B 3rd fees in Q2), but the message stands.
+ With   beginning on Amazon, the cost per click has increased by nearly 50% and overall ad spend has doubled since 2018 as competition intensifies to win auctions for ad space.
+ Thrasio focuses on mature businesses and the ACOS (advertising cost as a percentage of sales) is thus lower versus newer merchants who still need to ascend rankings and aggregate 5-star reviews.
+ Nonetheless, customer acquisition costs generally trend higher as more buyers are attracted to the platform.
+  Post incorporating Amazon’s take, product, and advertising costs, we arrive at a ~17% standalone margin, which jives with Thrasio’s stated margin per the Series C announcement.
+ Incorporating corporate overhead, and other cash flow items, we can then back into unit economics per acquisition and ballpark Thrasio’s return on capital.
+ At first glance, a ~22% ROIC doesn’t seem shabby, as it implies a 4.
+5 year return period on capital invested, excluding an exit.
+ However, for capital intensive retail business, we cannot ignore very real cash costs.
+ Scaling Amazon businesses requires sizeable amounts of cash perpetually locked up in ongoing inventory maintenance and freight costs.
+ Post these costs, free cash flow yield is a mere ~2.
+5%, implying an investment payback period of 17 years.
+ With a moderate amount of capital, sweat equity and a bit of luck, a small business owner can take home +$350K / year (or more depending on how taxes are structured).
+ For expensive VC or growth equity, those returns aren’t acceptable and have minimal room to run given the limited margin expansion story.
+  Juicing those Returns – Operational Synergies Juicing those Returns – Operational Synergies Despite structurally low margins, there exist clear opportunities for Thrasio to add value as mom & pop owners aren’t well versed in the dark arts of SEO (search engine optimization).
+ Thrasio’s other key initiatives include headcount optimization, brand management, customer acquisition efficiency and supply chain consolidation.
+ However, much like margins, the incremental value generated is limited.
+ Thrasio’s post-acquisition model modularizes all functional activities of the FBA business, and hires specific expertise across every category.
+ Modularization typically applies to industry-level value chains where there are increasing benefits of a specialized versus integrated approach.
+ e.
+g.
+ modularizing foundries in semiconductors.
+  In the FBA model’s case, onboarding specialized, professional management is akin to hiring Apple’s operations team to squeeze out efficiencies from a Chick-fil-a😍 franchise.
+ Not only will replacing a single founder with a deep bench be expensive, there are also decreasing returns on time invested.
+ Using a simple measure of efficiency, headcount per dollar of revenue generated, a single founder or two can comfortably manage $5M of FBA revenue.
+ Thrasio currently employs 300 headcount managing $300M of revenue, implying $1M of revenue per employee.
+ Even giving the benefit of building for the future and outsourcing certain operations to a lower cost region e.
+g.
+ Southeast Asia, we still arrive at less efficient ratio.
+ We’re also not offsetting the dis-synergies from time spent integrating +50 businesses per year.
+  Nonetheless, there remain clear cut opportunities as most founders don’t possess the skillset nor resources to execute broader operational improvements, even if it appears to be low-hanging fruit.
+ Key initiatives such as improving SEO & PPC spend, improving brand content, and launching variations of products can be immediately implemented, and can generate ~10 - 15% of additional growth.
+   From a supply chain perspective, the classic just-in-time optimizations lead to less cash tied up in working capital.
+ I remain skeptical on other back-end consolidation opportunities, as each acquired asset has separate contract manufacturers with ports of origin spread over many different cities & countries.
+  Coalescing the preceding initiatives, and maximizing the benefit to growth, cost savings, and working capital efficiencies, we can substantially increase the return on capital.
+ However, the equity investment story is still weak.
+  Praying for Exits Praying for Exits The sole remaining, and most important value lever, is a large exit through multiple expansion.
+ The assumption is in five years, because Thrasio has created a scaled, diversified, and institutional platform, the credit profile and valuation multiple at exit will increase.
+ Effectively, the whole will be worth much more than the parts purchased at 2-3x.
+ Intuitively, the logic is sound and the strategy has been successfully executed for classic PE rollups.
+ However, there are a few key differences.
+ The typical characteristics of attractive PE targets are long-term customer contracts, strong brand, hard assets, and a +5 year operating history.
+ For an FBA target, what really is being purchased are intangible assets: Amazon ranking, reviews, vendor relationships, a few trademarks, and 3-6 months of inventory.
+ Underwriting stable, future sales based on assets with short operating histories and almost all product discovery owned by Amazon is risky business.
+ Additionally, leveraging most of the revenue base to Amazon’s platform and their unilateral right to modify search & ranking algorithms, sometimes to favor in-house products, raises a few eyebrows.
+ This last point is important, as although the product base is diversified, the combined business is reactionary to Amazon’s overall strategy, and this dependence should be reflected through a lower risk-adjusted multiple.
+ The typical characteristics of attractive PE targets are long-term customer contracts, strong brand, hard assets, and a +5 year operating history.
+ For an FBA target, what really is being purchased are intangible assets: Amazon ranking, reviews, vendor relationships, a few trademarks, and 3-6 months of inventory.
+ Underwriting stable, future sales based on assets with short operating histories and almost all product discovery owned by Amazon is risky business.
+ Additionally, leveraging most of the revenue base to Amazon’s platform and their unilateral right to modify search & ranking algorithms, sometimes to  , raises a few eyebrows.
+ This last point is important, as although the product base is diversified, the combined business is reactionary to Amazon’s overall strategy, and this dependence should be reflected through a lower risk-adjusted multiple.
+ Considering the above and then assuming a sale, what should the exit multiple be? While selecting multiples is more of an art than science, backing into an acceptable multiple to meet return hurdles is just science.
+ If we assume a synergized view of the business, and most capital is deployed acquiring ~200 FBA businesses, a hearty ~8x multiple expansion is required to generate a VC / Growth Equity IRR of 30%.
+  Considering the above and then assuming a sale, what should the exit multiple be? While selecting multiples is more of an art than science, backing into an acceptable multiple to meet return hurdles is just science.
+ If we assume a synergized view of the business, and most capital is deployed acquiring ~200 FBA businesses, a hearty  ~8x multiple expansion is required to generate a VC / Growth Equity IRR of 30%.
+  Note, for simplicity, the multiples below are asset-level, meaning Thrasio purchases businesses at 2.
+5x FBA EBITDA, but if we allocate Thrasio’s SG&A, the EBITDA multiple is actually higher as the denominator (Asset EBITDA - SG&A) is lower.
+  Note, for simplicity, the multiples below are asset-level, meaning Thrasio purchases businesses at 2.
+5x FBA EBITDA, but if we allocate Thrasio’s SG&A, the EBITDA multiple is actually higher as the denominator (Asset EBITDA - SG&A) is lower.
+  A multiple re-rating of +8x is usually reserved for a large structural change in a business.
+ For example, a shift towards a SaaS model (Adobe, Microsoft), ecosystem monetization (Apple), industry modularization & resulting margin increase (Nvidia), and paradigm shifts (Zoom, Do2cuSign).
+ It’s a stretch for Thrasio’s model to fall into similar categories, even with continued e-commerce penetration tailwinds.
+  Through funding their Amazon businesses with sweat equity and a moderate capital outlay, small business owners have directly participated and accelerated the e-commerce revolution.
+ The FBA model is fitting for the single founder - almost every facet of the business is managed online and there are few employees needed.
+ However, rolling up low margin & capital intensive assets alone won’t produce attractive VC-like exits, and its a tough narrative to sell a future buyer.
+ Leave a comment    Alex Silvestre Alex Silvestre Liked by Patrick Liked by Patrick Great analysis! Now, given that Advent International is indeed one of the largest and most experienced global private equity investors (growth equity vehicle), it is unlikely they are beting on the exit lever alone.
+ Could it be that they are seeing something else? Great analysis! Now, given that Advent International is indeed one of the largest and most experienced global private equity investors (growth equity vehicle), it is unlikely they are beting on the exit lever alone.
+ Could it be that they are seeing something else? Reply Collapse Matthew P Matthew P Liked by Patrick Liked by Patrick Do you know if they buy Shopify stores? That seems like it would mitigate the Amazon anti-3rd party seller risk Do you know if they buy Shopify stores? That seems like it would mitigate the Amazon anti-3rd party seller risk Reply Collapse No posts Ready for more?

@@ -1,0 +1,223 @@
+https://ajuniorvc.com/thrasio-india-rollup-fmcg-unilever-startup-mensa-globalbees-goat/
+Can Thras.
+io Upstarts Disrupt Indian Consumer Giants? Last fortnight, Mensa Brands became a unicorn in just 6 months, hot on the heels of GlobalBees and GOAT brands acquiring sub brands Opening the Pandora of Brands In the 1830s, Olivia and Elizabeth Norris, homemakers settled in Cincinnati, Ohio, were getting married.
+ But unlike other “normal” marriages, their father, Alexander Norris, had a different plan.
+ When his daughters married gentlemen candlemaker William Procter and soapmaker James Gamble, Alexander realised that he could create a stable business entering the late Industrial Revolution, if his sons-in-law joined hands to work together.
+ Procter & Gamble v1.
+0 came into existence.
+ Within 20 years of its launch, P&G had $1MM in revenue by selling just candles and soaps.
+  By the 1920s, P&G had set up its own factories spread across the US, to manufacture its own product-line.
+ Continued success in soaps and candles led to the launch of diverse other brands.
+  To create brand awareness amongst its audience, P&G printed full-page newspaper ads and sponsored a lot of daytime serials, thus the name ‘soap’ operas.
+ About the same time, Lever Brothers and Dutch Margarine joined hands to form what is now known as Unilever.
+ Over the next two decades, it spread its wings across countries by acquiring businesses and positioning it under the Unilever umbrella.
+  Once established, it would market its various products under specific brands that would be launched, nurtured and grown for years.
+ Until the brand themselves became so well-known that it would become synonymous with the product itself.
+ In such situations, a customer would often go to the shop and order “Surf Excel”, when all he/she wanted to buy was a detergent bar.
+ Dove, Ariel, Hellman’s, Pepsi, Tropicana, Budweiser – all of these and so many more are established “brands” – household names that embody the quality and trust that customers have put in them over decades.
+  As a result, these brands have a high recall (lower CAC), high stickiness (higher LTV) and high NPS – metrics of a complete business that keeps churning out sustainable profits.
+ Before Amazon disrupted the e-commerce space, the brands needed their umbrella organisations (such as Unilever, PepsiCo, P&G) to set up their own end to end value chains spanning product R&D, manufacturing and distribution.
+  The incremental investments needed to launch more brands was negligible, and economies of scale would kick in when more brands utilised the same infrastructure.
+ This was the biggest moat that resulted in concentration of well-known brands under only a few conglomerates that dominated the world market.
+  Even though the building blocks (brands) had standalone existence in the consumer minds, all of them “rolled-up” under a conglomerate (say, Unilever), about whom the consumer would have little knowledge.
+ The new entrants would lose out on the access to cheap capital, years of product know-how and the sheer marketing muscle-power to position itself in the customer mind.
+  Before the 2010s, VC and PE money would remain elusive apart from the top 2-3 players in every vertical.
+ The others would be neglected, and they could only do so much about it.
+  But a storm was brewing, one that would shake P&G and Unilever in India.
+ Enter the Atlas for D2C  In the decade starting 2010, Flipkart and Amazon in India made shipping to end consumers comparatively easier.
+ This led to the launch of direct to consumer brands.
+ Brands no longer had to deal with a complicated maze of wholesalers and distributors.
+ The margins saved in this process would be directly passed on to the customers.
+ What they lost in absence of economies of scale, would be made up for by saving margins eaten up by middlemen and a deep understanding of the product positioning.
+ Shopify would make it even easier for brands to setup their websites (bypassing expensive technical talent recruitment).
+ This plug and play model saved years of lead-time.
+ Integration of Shopify platform with Amazon/Flipkart (marketplaces) and FedEx/Shiprocket (logistics) allowed founders of such D2C brands to focus on what they did best – growing their brands.
+ By 2018, Amazon reported that they had ~5,000 sellers that earned more than INR 1 Cr in revenue in a year out of the 700K total sellers on the platform.
+ For Flipkart with ~350K sellers, the numbers would be similar.
+  While there could be a significant overlap in the sellers earning >INR 1Cr on the platforms, we can assume that there are 25% sellers exclusive to Flipkart, and estimate such count of sellers with > INR 1Cr revenue to be ~1000.
+ The Indian opportunity of large D2C brands seemed to be around 7,000 sellers.
+ On top of this, there were 70K Indian Exporters selling on 15 different Amazon International websites.
+ Assuming it is 20X easier (Rupees’ purchasing power parity compared to the Dollar) to cross the INR 1 Cr barrier when earning in foreign currency, That would mean about 8,000 sellers, making the total number of such sellers at 15,000.
+ Assuming a normal distribution of seller-wise revenues, the number of sellers beyond INR 1Cr in annual earnings will decline further, as the barrier is increased.
+ What this indicated was that not too many brands in India were able to scale meaningfully.
+ The problems for D2C brands at scale would still persist.
+ VC/PE capital was still hard to come by.
+ Managing supply chains, inexperience with digital marketing techniques and a crowded space soon led to their growth plateauing.
+ Profit margins started declining, and sales stagnated.
+  Many small businesses face scaling challenges, but almost no one was focused on providing the Amazon-seller ecosystem with growth capital or exit options.
+ As the Indian brands tried to figure out ways to scale up, two friends were beginning to solve their problems oceans away.
+ Thras.
+io’s Trojan Entry Joshua Silberstein and Carlos Cashman began to see this “hitting a wall problem” in late 2018.
+ This was the aha! moment that convinced the serial entrepreneurs that their thesis of acquiring e-commerce brands and using economies of scale to build a large holding company, would be a home-run.
+  Thras.
+io was born.
+ Joshua and Carlos convinced investors to provide them with relatively cheap debt and began targeting sellers who had hit a ceiling.
+  They started out by scouting D2C brands, but realised that these brands operated differently.
+ Merging standalone D2C brands to find economies of scale was not straightforward.
+ Their way out of this was targeting Amazon’s Fulfilled by Amazon (FBA) brands.
+ FBA programme allows sellers to use Amazon’s warehousing and logistics capabilities to sell their products to consumers via the Amazon platform.
+ The economies of scale truly kick-in if Thras.
+io can acquire Amazon FBA brands and run them together because they all use the same platform to sell, same warehouses to store, and same logistics partners to deliver.
+ After acquisition, all of these brands could be rolled up to be run as one big business.
+  This house of brands approach of Thras.
+io is not different from the likes of Unilever, Godrej or P&G.
+ The only difference could be in the value-addition and types of brands being rolled-up in the business.
+ That’s exactly what they did.
+  Thras.
+io acquired 100 Amazon FBA businesses, then started relentlessly fine-tuning their online presence to improve conversions.
+ Basics of this fine-tuning included better photos, better keywords and better copy.
+  Both of them realised that Amazon is an SEO ecosystem that is intertwined in lots of unexpected ways.
+ Understanding where those paths lead, would lead to significantly better sales.
+ Joshua and Carlos knew those paths really well.
+ Thras.
+io’s success led to the birth of similar aggregator models such as Perch, Moonshot, SellerX, Heroes and Branded.
+ All of them are trying some variation of acquiring and operating Amazon FBA/D2C brands.
+ But what were these rollup platforms really solving, when they would help brands “scale” D2C’s Mercurial Rise The way products get from manufacturers to end consumers has been completely transformed by the Internet.
+  During the 20th century, the manufacturer controlled how and where products were distributed.
+ You would buy a car only from a Suzuki showroom, for example.
+  However, now, new intermediaries like Amazon effectively control the supply of customers because everyone shops there.
+ Producers are now competing just to get on e–commerce marketplaces like Amazon’s front page since that’s where all of the customers are.
+ Above this, the D2C or Direct to Consumer emerged as a response to new trends in how consumers could be reached, such as social media, email, SMS bypassing both the traditional: and new gatekeepers, from news media and broadcast media to Amazon.
+ Such brands use tools like Shopify allowing brands to create their own virtual storefronts.
+  They used search engine marketing and social media tools like Facebook, Twitter and Instagram to advertise.
+ They can gather data on customer’s buying habits, experiment and iterate quickly on their offerings.
+ However these generally remained quite small and were harder to scale as they did not have so much operating capital and lower margins.
+ Additionally, it had become a vast, confusing, jungle on most marketplaces.
+  The sellers were relatively undifferentiated and competed for attention in a limited space.
+ Further there is nothing stopping the marketplace itself from arbitrarily copying other brands’ ideas.
+  Thras.
+io was trying to bring the best of the D2C and Amazon worlds.
+ The aggregator would make all the brands more efficient and use its resources to improve growth.
+ It’s an audacious strategy that requires a lot of capital.
+  No wonder it is named after the ancient Greek word thrasos, the concept of audacity and boldness.
+ This audacious strategy would also need a playbook to win.
+ Becoming the Hero for Small Brands What Thras.
+io does is quite similar to what PE buyers do to acquired companies.
+  The idea behind “rolling up” is not new, as we have seen in consumer brands.
+ In other categories, the famous “robber barons” like Andrew Carnegie and John D Rockefeller “rolled” up all the competing companies in their field to become virtual monopolies in oil and steel.
+ Fundamentally, there are two things that drive a rollup.
+  The idea is to reduce costs via economies of scale, as larger companies are usually more cost-effective than smaller ones.
+ This becomes a very attractive proposition when there are many small players in a fragmented market, and margins are small.
+  For Thras.
+io, the return on their investments in smaller D2C companies would therefore be determined by the strength of their operations and their ability to profitably grow the businesses that they acquire.
+ The most important thing Thras.
+io did to scale up was to “productize” the way it evaluated businesses and created an acquisition machine that could evaluate and close a deal within 2 months.
+ They evaluate businesses based on trailing twelve month (TTM) earnings, commonly referred to as Seller’s Discretionary Earnings, and then go on to apply a multiple to the TTM earnings based on a variety of factors such as perceived stability of cash flow, competitive positioning (reviews, product rating, SEO ranking), size, margin structure and efficiency of operations.
+  Thras.
+io would reach 2020 at $500 MM in revenues with $100 MM in profits, valued at ~$4 Bn.
+ It had acquired over 100 third-party private-label businesses listed on Amazon.
+ The like-minded clones like Elevate, Unibrands wouldn’t be too far.
+ As opposed to Thras.
+io’s generalist data and ops-driven approach, they primarily leverage their domain expertise to focus on a particular market segment or target a certain audience.
+ For example, the Paris based “Branded” focuses on lifestyle and luxury apparel like perfumes, fashion etc.
+ Heyday focuses more on home goods like furniture and Air purifiers.
+   The storm from the US had taken off, and 2 years later was hitting the Indian shores Starting India’s Rollup Odyssey  Given India’s exploding e-commerce penetration, it was natural for Thras.
+io-inspired startups to emerge here as well.
+  The most famous was Mensa brands.
+ It currently has 8 brands across primarily Fashion, Home and Beauty sectors as of now.
+ VC’s have poured money into the Indian roll-up players.
+  In addition to Mensa, other companies like UpScalio, Evenflow, GlobalBees and GOAT Labs also received millions to begin.
+ So what do they focus on and how do they differentiate from each other? That’s where it gets interesting.
+ The teams are part of the mafias who were in the trenches at the previous wave of marketplace e-commerce startups.
+  Mensa, the elephant in the room is founded by Ananth Narayanan, former CEO of Myntra, and the roster is stacked with ex-Myntra folks.
+ G.
+O.
+A.
+T Brand Labs founder Rishi Vasudev was a SVP at Flipkart and Myntra Fashion.
+ Nitin Agarwal was a cofounder at Shopclues.
+  They all seem to adopt a similar Thras.
+io-ish approach in their marketing, and their landing pages look almost identical too, stating similar value propositions to prospective brands.
+     It is unclear how differentiated they are, as the segment remains in its early stages.
+ They seem to provide broadly similar value propositions to the brands they want to acquire, promising lucrative, rapid exits and the promise of growth.
+ In situations where capital is plentiful and undifferentiated, the investor who wins is usually the one who is prepared to invest the most.
+  We anticipate that either the thrasi-also companies will compete for a pool of successful b2b brands, offering higher and higher exits, or that they will start differentiating based on a core competency.
+  For example, one might provide specialised design and manufacturing capabilities to allow brands to expand into new product lines.
+ Some might specialise in trimming fat and increasing the efficiency of operations.
+ B2B brands might pick and choose based on their needs.
+ The holy grail that all of them are crowding after is the one where this story started.
+ Entering Unicorn Paradise The roll-up model is an explosive one, as the success of Thras.
+io demonstrates.
+  Investors have voted with their wallets accordingly.
+ Mensa broke all records by becoming fastest unicorn, reaching a billion dollar valuation in just 6 months.
+ GlobalBees on the other hand raised the biggest Series A of $150M, 10club raised largest seed round of 40 million dollars, rapidly acquiring various brands in the fashion, beauty, personal care, food, home, sports and lifestyle space.
+  Investments come in on the promise of growth, and also stable, recurring revenues from running the brands well.
+ But every VC investment is looking for outsized outcomes.
+  These roll ups may seem, very funnily, like VC funds funding PE funds.
+ On the surface, these roll ups don’t look any different from the managed acquisition machines that PEs are.
+ But what these unicorns/soonicorns are trying to be is become a digital conglomerate at hyperspeed.
+  What took Unilever or P&G hundreds of years, these rollups want to achieve in 10s of years.
+ P&G is a $350Bn market cap monster, Unilever is a $150Bn giant.
+  Imagine creating $500Bn of value, incredibly fast.
+  These rollups will be digital conglomerates, as all the brands they acquire will be direct to consumer and online.
+ It is no wonder that already existing brands like Nykaa and Glamm have pivoted to a “House of Brands” approach.
+  The reason this House of Brands approach works is that a specific brand can connect with a specific consumer segment.
+ The consumer segment is not confused by the other brands that belong to the same conglomerate, allowing the House of Brands to have a targeted approach.
+ While this rollup model looks fantastic, there are challenges beneath the hype.
+ Avoiding Rollup Nemesis  Despite the hundreds of millions flowing into Indian rollup upstarts, smooth sailing is not guaranteed.
+ The US has more than 20,000 brands with $100Bn+ of GMV.
+ India, on the other hand, has barely crossed 1,000 brands with $3Bn+ of GMV.
+ The Indian market is less than 5% of the US market.
+ It still has 7 companies that have raised significant capital in a short span of time.
+  US has thousands of brands with the smallest brands there generating a few million dollars in revenue.
+ In India, if we consider which brands can grow from a $10M (which is relatively easy) to a $50-70M ARR company there remains a big question mark.
+ Amazon India has only 4,100 startups with annual revenue of Rs.
+ 1cr or more in 2020.
+ Combined with VCs that are looking to invest in D2C brands, it’s a lot of capital fighting for very few companies.
+ Immediate challenges due to the nascency of the market will see adverse selection and overbidding of companies.
+  Poorly run brands may seek to sell out to roll up companies, offloading bad assets.
+ Better brands will raise at much higher valuations because of intense capital chasing them.
+ All this will depress returns on equity, the very metric these companies are optimizing for.
+ Every player in the market is essentially betting on the explosive growth of the D2C category.
+ Not only is the Indian D2C market smaller, India as an economy is also much smaller than the US.
+ Per capita incomes are 5%, and digital consumer spending is largely restricted to the top 10%.
+  Due to the nascence of our economy, spending is also largely following Maslow’s hierarchy of needs.
+ Categories like household, health and safety will see spending only after fashion and apparel.
+  The former are the high margin businesses that the larger consumer conglomerates like P&G and Unilever dominate.
+ These will be hard to enter at first for the roll ups.
+ The conglomerates have also had largely organic growth, building leaders internally steeped in the same culture.
+ This has allowed integration, cross pollination and better operating structures.
+ They have massive supply chains built over decades that are unmatchables.
+  The roll up brands will be entirely inorganic.
+ The infrastructural back end across brands looks great on paper, but it remains to be seen how it will actually play out.
+ These rollups will likely play out like a mish-mash of brands, with limited synergies.
+  Not every brand will be looking to sell, making it even harder to fuel this inorganic growth.
+ In a country where external capital has culturally been a big change, this will be difficult.
+ Managing these differences could be a logistical nightmare.
+ All these challenges will pale if the Indian consumer story delivers.
+ It isn’t a question of if, but when, as we have one of the largest populations globally.
+  Millennial spenders, who drive the maximum of consumption due to their lifestyles, are the largest in India.
+ Additionally, they are digitally native, areas that the large conglomerates struggle with and the rollups will do well at.
+ They will power India’s consumer story, and the roll ups.
+  Consumer Oracles As entrepreneurs, startup fans and critics do a ‘chai pe charcha’ on the fundraising blitz for the Thras.
+io players, what really is the end game for these players? If we look at the general evolution of any nascent sector in India, it starts gradually.
+ As few players get seed funded, there is a whirlwind of funding birthing me too players.
+  At times, investors not to miss out on the hopeful ‘Gold Rush’ fund rapidly and ironically competing players in the same fund.
+ Eventually escape velocity hits with a few start-ups executing rapidly and exceptionally well.
+  The market rewards them with investor love and slowly the emerging giants either acquire the struggling players or let them starve to capital death on their own.
+ This pattern has been observed with e-commerce in 2010-13, social media in 2014-15, food tech in 2015-16, neo banking in 2018-19 and now with Thras.
+io models in 2020-21.
+  But the interesting fact here is that most of the well-funded players are picking specific niches that they feel can have a large profitable TAM.
+ Synergies among the portfolio companies be it in distribution (targeting the same segment), branding (house of brands), technology layer or on supply side (manufacturing or raw material procurement that brings scale efficiencies) could actually help many more to survive than what has been seen in other sectors.
+ In the short term, multiples to acquire the best brands could become inflated as Thras.
+io models compete to get the best players in their team.
+ We are already seeing this in a few cases where D2C brands with ARR of $5-10M are being valued on revenue multiples rather than on EBITDA multiples that has been the norm to value D2C startups.
+  Entry at revenue multiple and exit at EBITDA multiples could also mean that brands have to scale aggressively fast before the holding company lists which could be another big headache.
+ Things will heat up soon as the OG is expected to enter India.
+  In Oct-21, Thras.
+io was reportedly looking to enter India with a $50m acquisition of Lifelong Labs.
+ The $500m revenue and $100m profit-generating machine for 2020 could lead to consolidation as smaller upstarts look to unite the fight the might of the giant.
+ Other biggies like Perch could also eye India.
+   In the mid to long term though, Thras.
+io models can pick specific emerging themes such aseg.
+ International Brands for India1, build beautiful homes- home décor, kitchenware, arts and crafts, bedding.
+ Ultimately the next 18-24 months will be interesting to watch as the upstarts fight to pick the best brands, unite to fight the coming heat from the big giants, get killed by either the giants or traditional players.
+ What finally remains after the dust has settled will be large profitable rolled up companies funded by later-stage investors that look to IPO soon.
+  Ultimately it will be a big win for the consumers and the entrepreneurs building epic D2C brands.
+ The rollup upstarts could be the beginning of the expansion and disruption of the Indian consumer landscape.
+  10 Oldest Newest Most Voted Guest  Great article! Like the word “soonicorn” View Replies (1) View Replies Guest  V interestingly put out the facts.
+ View Replies (1) View Replies Guest  Please elaborate a bit more on the “Enter Atlas for the D2C” section.
+ The numbers are not clear – would be great if we can add a table or a infographic there! Guest  Comment button on the bottom of the screen really affects the reading experience.
+ Please move it somewhere else.
+ Or make it bit translucent View Replies (1) View Replies Guest  Anyone know how Mensa, Globalbees, etc.
+ are getting funded from a FDI Policy perspective? Won’t there be a bunch of sector regulations to comply with?  […] brands, which have proliferated, will also see activity.
+ Several companies have adopted ‘Thrasio-style’ models, which will look to acquire and deploy […]  […] दिखाई देगी। कई कंपनियों ने अपनाया है ‘थ्रैसियो-शैली’ मॉडल, जो पूंजी का अधिग्रहण और तैनाती […] error: 
