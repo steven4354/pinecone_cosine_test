@@ -1,0 +1,9 @@
+requests 
+bs4 
+nltk 
+fake-useragent
+sentence-transformers
+torch
+pinecone-client
+scipy
+jupyter
